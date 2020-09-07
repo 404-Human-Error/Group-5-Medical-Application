@@ -70,6 +70,10 @@ h3{
 
 }
 
+.active, .list:hover {
+  background-color: #666;
+  color: white;
+}
 .dark{
 
 	color: white;
